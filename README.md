@@ -2,3 +2,4 @@
 
 The repository includes:
 - Convert text from image to handwritten text.
+- Rename Multiple FIles In A Directory.
