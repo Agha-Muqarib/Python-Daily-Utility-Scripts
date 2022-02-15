@@ -3,4 +3,4 @@
 The repository includes:
 - Convert text from image to handwritten text.
 - Rename Multiple FIles In A Directory.
-- Randomly Move 20% files of a directory to another directory.
+- Randomly Move 20% files of a directory to another directory (Application: Splitting Dataset to Train-Test while training an ML Model)
