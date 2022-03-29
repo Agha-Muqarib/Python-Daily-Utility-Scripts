@@ -6,4 +6,4 @@ The repository includes python daily utility scripts that can come in handy whil
 - [Rename Multiple FIles In A Directory.](https://github.com/Agha-Muqarib/Python-Daily-Utility-Scripts/blob/main/Scripts/Rename%20Multiple%20FIles%20In%20A%20Directory.ipynb)
 - [Randomly Move 20% files of a directory to another directory (Application: Splitting Dataset to Train-Test while training an ML Model)](https://github.com/Agha-Muqarib/Python-Daily-Utility-Scripts/blob/main/Scripts/Randomly%20Move%2020%25%20files%20of%20a%20directory%20to%20another%20directory..ipynb)
 - [Annotating Graphs, i.e. view a specific point on graph w.r.t (x,y) coordinates. ](https://github.com/Agha-Muqarib/Python-Daily-Utility-Scripts/blob/main/Scripts/Annotating%20Graphs.ipynb)
-- YouTube Video Downloader
+- [YouTube Video Downloader](https://github.com/Agha-Muqarib/Python-Daily-Utility-Scripts/blob/main/Scripts/YouTube%20Video%20Downloader.ipynb)
